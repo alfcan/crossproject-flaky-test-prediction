@@ -1,0 +1,22 @@
+version: "3"
+services:
+  repo_miner:
+    container_name: repo_miner
+    image: angeloafeltra/metricsextractor:repo_miner
+    stdin_open: true
+    tty: true
+    volumes:
+      - shared-data:/sharedSpace
+    depends_on:
+      - flakinessmetricsdetector
+
+  flakinessmetricsdetector:
+    container_name: flakinessmetricsdetector
+    image: angeloafeltra/metricsextractor:flakiness_metrics_detector
+    ports:
+      - 8080
+    volumes:
+      - shared-data:/sharedSpace
+
+volumes:
+  shared-data:
