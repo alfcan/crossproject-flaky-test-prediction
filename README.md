@@ -65,7 +65,7 @@
 
 When the main is started, an interface similar to the following will appear:
 
-![Example Interface](https://imgur.com/rfbtIsH)
+[Screenshot](https://imgur.com/rfbtIsH)
 
 At this point, to run all experiments, type `1`, or choose the specific experiments you wish to run and then `0` to finish. Eventually, a boxplot will be generated with the results of the various metrics for all the experiments run.
 
