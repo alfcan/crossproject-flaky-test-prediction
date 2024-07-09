@@ -1,0 +1,16 @@
+                    tloc  0.002139
+        assertionDensity  0.005457
+               eagerTest  0.001191
+                     loc  0.034808
+                   lcom2  0.023932
+                   lcom5  0.004531
+                     cbo   0.00802
+                     wmc  0.017016
+                     rfc  0.020512
+                     mpc  0.017966
+      halsteadVocabulary  0.039025
+          halsteadLength  0.026453
+          halsteadVolume  0.054054
+classDataShouldBePrivate  0.003071
+            complexClass  0.003512
+           spaghettiCode  0.004772
