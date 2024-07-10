@@ -102,15 +102,16 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 The authors are:
 
-- Angelo Afeltra
+- Angelo Afeltra - angelo.afeltra99@gmail.com
 - Alfonso Cannavale - a.cannavale7@studenti.unisa.it
-- Francesco Pecorelli - fpecorelli@unisa.it
+- Fabiano Pecorelli - fabiano.pecorelli@unipegaso.it
 - Valeria Pontillo - valeria.pontillo@vub.be
 - Fabio Palomba - fpalomba@unisa.it
 
 The affiliations are as follows:
 
-- Angelo Afeltra, Alfonso Cannavale, Fabiano Pecorelli, and Fabio Palomba are affiliated with the Software Engineering (SeSa) Lab at the University of Salerno, Fisciano, Italy.
+- Angelo Afeltra, Alfonso Cannavale, and Fabio Palomba are affiliated with the Software Engineering (SeSa) Lab at the University of Salerno, Fisciano, Italy.
+- Fabiano Pecorelli is affiliated with the Pegaso Telematic University, Naples, Italy
 - Valeria Pontillo is affiliated with the Software Languages (Soft) Lab at Vrije Universiteit Brussel, Belgium.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
